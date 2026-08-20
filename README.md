@@ -5,14 +5,14 @@ I'm a Computer Science & Engineering student interested in building practical so
 
 Currently focused on Java, Data Structures & Algorithms, Backend Development, APIs, and Software Engineering.
 
-👩‍💻 About Me
-🎓 Computer Science & Engineering student
-💻 Currently strengthening my Java + DSA skills
-🌐 Interested in Backend Development & Software Engineering
-🔧 Building projects with Node.js, Express, MySQL & REST APIs
-🏥 Worked on a Radiology MVP for patient registration and healthcare data management
-📚 Always learning, building, breaking things, and figuring out why they broke 😭
-🎯 Goal: Become a strong software developer and build technology that actually solves problems
+## 👩‍💻 About Me
+
+- 🎓 Computer Science & Engineering student
+- 💻 Learning **Java, DSA & Backend Development**
+- 🌐 Interested in **Software Engineering & API Development**
+- 🏥 Built a **Radiology MVP** using Node.js, Express.js and MySQL
+- 🧠 Interested in understanding how software works under the hood
+- 🚀 Currently preparing for software development opportunities
 
 🤝 Let's Connect
 
